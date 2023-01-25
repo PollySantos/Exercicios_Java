@@ -1,7 +1,7 @@
-package Exercicios;// Escreva um algoritmo que pergunte o nome e a idade do usuário e escreva estes valores digitados pelo usuário em forma de cumprimento
+// Escreva um algoritmo que pergunte o nome e a idade do usuário e escreva estes valores digitados pelo usuário em forma de cumprimento
 //Ex: Bom dia João (concatene com o nome digitado)
 //Sua idade é 49 (concatene com a idade digitada)
-
+package Exercicios;
 import java.util.Scanner;
 
 public class Exercicio02 {
