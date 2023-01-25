@@ -1,6 +1,6 @@
 package Classes;
 
-public class Exercicio02 {
+public class Exemplo02 {
     public static void main (String [] args) {
     int ano = 2022;
     ano = 2023;
