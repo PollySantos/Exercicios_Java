@@ -1,3 +1,7 @@
+/* Faça um algoritmo que pergunte a carga horária mensal de um funcionário e seu salário fixo.
+No final, mostre na tela quanto ele recebe por hora.
+ */
+
 package Exercicios;
 
 import java.util.Scanner;

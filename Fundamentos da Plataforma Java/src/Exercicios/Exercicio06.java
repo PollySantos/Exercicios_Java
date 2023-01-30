@@ -1,4 +1,9 @@
+/* Construa um algorítimo que pergunte ao usuário quantos KM seu carro percorre por litro
+e mostre a quilometragem que irá andar com 20 litros.
+*/
+
 package Exercicios;
+
 
 import java.util.Scanner;
 
