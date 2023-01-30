@@ -17,19 +17,14 @@ public class T001_Tela_estática {
         System.out.print(" \n");
         System.out.print("========================================================\n");
         System.out.print(" SISTEMA PARA EMPRESA DE ÔNIBUS - Ano atual: 2023\n");
-        System.out.print("========================================================\n");
-        System.out.print(" \n");
+        System.out.print("========================================================\n\n");
         System.out.print("BEM-VINDO!\n");
-        System.out.print("Compre suas passagens pelo telefone: " + Telefone);
-        System.out.print(" \n");
-        System.out.print("Ou entre em contato pelo e-mail: " + Email);
-        System.out.print(" \n");
-        System.out.print("Preço da passagem: " + PrecoPassagem);
-        System.out.print(" \n");
-        System.out.print(" \n");
+        System.out.print("Compre suas passagens pelo telefone: " + Telefone + "\n");
+        System.out.print("Ou entre em contato pelo e-mail: " + Email + "\n");
+        System.out.print("Preço da passagem: " + PrecoPassagem + "\n\n");
         System.out.print("========================================================\n");
         System.out.print("Construido por PollySantos\n");
-        System.out.print("========================================================");
-        System.out.print(" \n");
+        System.out.print("========================================================\n");
+
     }
 }
